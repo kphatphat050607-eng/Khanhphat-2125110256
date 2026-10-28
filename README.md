@@ -1,11 +1,6 @@
 # Personal Expense Tracker — Hướng dẫn dự án đầy đủ
-
-
-
 > Dự án quản lý thu chi cá nhân bằng Python, được xây dựng theo hướng học tập từ Week 01 đến Week 15 của [CocAgent/python-journey](https://github.com/CocAgent/python-journey).
-
 README này là tài liệu hướng dẫn dài dành cho người mới học Python. Tài liệu trình bày mục tiêu, chức năng, cấu trúc thư mục, kiến thức nền tảng, cách cài đặt trong VS Code, luồng chạy, giải thích từng module, cách kiểm thử, dữ liệu mẫu, xử lý lỗi, Git, kế hoạch mở rộng và checklist demo.
-
 
 list DEMO
 Bản demo sẽ có các chức năng chính:
